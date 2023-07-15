@@ -1,0 +1,12 @@
+{
+  "choices": [
+    {
+      "choice": "react-component-dir",
+      "template": "./templates/reactComponent"
+    },
+    {
+      "choice": "interface-definition",
+      "template": "./templates/service"
+    }
+  ]
+}
