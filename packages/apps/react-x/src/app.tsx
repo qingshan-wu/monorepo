@@ -5,6 +5,7 @@ import {Button} from '@proj/react-components'
 type Props = {}
 
 export default function App({}: Props) {
+  console.log('hello: this is a app')
   return (
     <div>
       <div className="title">App----</div>

@@ -26,7 +26,10 @@ pnpm i @rollup/plugin-node-resolve @rollup/plugin-commonjs rollup-plugin-peer-de
 #### esm 
 `import { Button } from '@proj/c'`
 
-
+- esm
+  - bundleless
+- umd
+  - bundled
 
 
 ### 为什么用rollup 而不是 webpack/ vite
